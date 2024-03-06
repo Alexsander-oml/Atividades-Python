@@ -57,4 +57,21 @@ else:
  
  #5
  
- #6
+n = int(input("Digite um valor inteiro positivo: "))
+soma = 0
+
+for n in range(1,n):
+  soma += 1/n
+  print(soma)
+
+
+ #6 
+  
+ lista = []
+
+for c in range(1000, 2001):
+    if c % 11 == 5:
+        lista.append(c)
+
+print("Números entre 1000 e 2000 que, quando divididos por 11, produzem resto 5:")
+print(lista)
