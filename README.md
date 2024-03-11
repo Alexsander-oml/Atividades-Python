@@ -1,6 +1,6 @@
 # DS2 Python - IFRS 🚀
 
-
+- ***Controle de fluxo.py (if and for)*** 
 - **Atividade 1:** *Verificação de Idade*
   - Um programa simples para verificar a maioridade do usuário.
 
@@ -18,3 +18,4 @@
 
 - **Atividade 6:** *Números com Resto 5*
   - Verifica e mostra números entre 1000 e 2000 que produzem resto 5 quando divididos por 11.
+----------------------------------------------------------------------------------------------
