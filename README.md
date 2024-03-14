@@ -44,11 +44,4 @@ se um número passado como parâmetro está presente na lista.
 
 - **Atividade 6:** *Soma dos inteiros positivos até o número*
   - Escreva uma função que recebe como entrada um número inteiro positivo n e
-retorne a soma de todos os inteiros positivos menores ou iguais a
-    
-
-
-
-
-
- n.
+retorne a soma de todos os inteiros positivos menores ou iguais a n.
