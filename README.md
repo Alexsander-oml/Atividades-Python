@@ -1,6 +1,6 @@
 # DS2 Python - IFRS 🚀
 
-- ***Controle de fluxo.py (if and for)*** 
+- ***Controle de fluxo.py (if and for)*** - **semana 01**
 - **Atividade 1:** *Verificação de Idade*
   - Um programa simples para verificar a maioridade do usuário.
 
@@ -19,9 +19,9 @@
 - **Atividade 6:** *Números com Resto 5*
   - Verifica e mostra números entre 1000 e 2000 que produzem resto 5 quando divididos por 11.
 ----------------------------------------------------------------------------------------------
-***Funções.py (def)***
+***Funções.py (def)*** - **semana 02**
 
-**Atividade 1:** *Imprimir menor valor*
+- **Atividade 1:** *Imprimir menor valor*
   - Escreva uma função que recebe dois parâmetros e imprime o menor dos dois. Se eles forem iguais, imprima que eles são iguais.
 
 - **Atividade 2:** *Positivo e negativo*
@@ -45,3 +45,15 @@ se um número passado como parâmetro está presente na lista.
 - **Atividade 6:** *Soma dos inteiros positivos até o número*
   - Escreva uma função que recebe como entrada um número inteiro positivo n e
 retorne a soma de todos os inteiros positivos menores ou iguais a n.
+
+----------------------------------------------------------------------------------------------
+***happynumber.py (def)*** - **semana 03**
+
+- **Atividade 1:** *Happy Number?*
+  - Como saber se um número é feliz ou triste?<br>
+1 - Dado um número inteiro positivo<br>
+2 - Substitua o número pela soma dos quadrados dos seus dígitos
+<br>3 - Se o resultado for 1, o número é feliz
+<br>4 - Caso contrário, repita o processo indefinidamente.
+Os números que resultarem em 1, são felizes.
+Os que não resultarem em 1, são tristes.
